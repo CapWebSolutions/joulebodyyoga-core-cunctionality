@@ -1,0 +1,5 @@
+/* Let’s make my Very Important Comments stand out by adding a different background color. To do that, either edit or add this to your theme’s stylesheet:
+*/
+.bypostauthor {
+background-color: #222; // style this however you want
+}
